@@ -1,5 +1,6 @@
-# Interactive_Quiz_RISC-V
+# Interactive Quiz in RISC-V
 CSC 225, Introduction to Computer Organization, 2021
+
 Professor John Planck
 
 
